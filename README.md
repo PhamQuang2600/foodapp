@@ -1,16 +1,14 @@
 # foodapp
 
-A new Flutter project.
+app đặt đồ ăn
+gồm các chức năng: đăng nhập bằng google, xem thông tin sản phẩm, người dùng, thêm vào giỏ, tìm kiếm, thêm vào yêu thích, đặt hàng, thêm bớt sản phẩn trong giỏ hàng, xóa sản phẩm trong yêu thích, đăng xuất
 
-## Getting Started
+## Demo
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+https://user-images.githubusercontent.com/100197752/221608186-eca557d7-17f1-465b-8ade-0ce3ea695aad.mp4
+
+
